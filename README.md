@@ -10,8 +10,12 @@ Practical 3 :
 <br>a)	Write C++ program to draw the following pattern. Use DDA line and Bresenham‘s circle
 drawing algorithm. Apply the concept of encapsulation.
 
+![Screenshot 2023-08-25 234931](https://github.com/RakshaAage/SPPU-2019-Pattern-SE-Comp-Computer-Graphics-Practicals/assets/106915505/2087bfdb-362c-4fea-acb1-ca55d9d741c9)
+
 <br>b)	Write C++ program to draw the following pattern. Use DDA line and Bresenham‘s circle
 drawing algorithm. Apply the concept of encapsulation.
+
+![Screenshot 2023-08-25 234939](https://github.com/RakshaAage/SPPU-2019-Pattern-SE-Comp-Computer-Graphics-Practicals/assets/106915505/1eb31ef2-2218-4cf4-a91e-f3084732f823)
 
 **GROUP - B**
 
